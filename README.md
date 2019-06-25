@@ -58,7 +58,8 @@ https://hacktoberfest.digitalocean.com/
 
 ### Choose from these tasks
 #1. Add your name
-Add your name to the CONTRIBUTORS.md file using the below convention:
+
+> Add your name to the CONTRIBUTORS.md file using the below convention:
 
 # Name: [YOUR NAME](GitHub link)
 - Place: City, State, Country
