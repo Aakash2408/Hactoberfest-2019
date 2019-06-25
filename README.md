@@ -26,3 +26,71 @@ https://hacktoberfest.digitalocean.com/
 >Wait for your PR review and merge approval!
 
 >Star this repository if you had fun!
+
+
+
+### Getting Started - Difficult
+
+>Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
+
+>Install git on your computer https://git-scm.com
+
+>Clone your fork down to your local machine
+
+>git clone https://github.com/your-username/hacktoberfest.git
+
+>Make your changes (choose from any task above)
+
+>Commit and push
+
+>git add .
+
+>git commit -m "Commit message"
+
+>git push origin master
+
+>Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
+
+>Wait for your PR review and merge approval!
+
+>Star this repository if you had fun!
+
+
+### Choose from these tasks
+1. Add your name
+Add your name to the CONTRIBUTORS.md file using the below convention:
+
+#### Name: [YOUR NAME](GitHub link)
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](GitHub link)
+2. Add a profile page
+Add a Your_Name.md file to the profiles directory. Use any combination of content and Markdown you'd like. Here is an example:
+
+# Your Name
+
+### Location
+
+Your City/Country
+
+### Academics
+
+Your School
+
+### Interests
+
+- Some Things You Like
+
+### Development
+
+- Inventor of the My Pillow
+
+### Projects
+
+- [My Project](GitHub Link) Short Description
+
+### Profile Link
+
+[Your Name](GitHub Link)
+
+
