@@ -39,7 +39,7 @@ https://hacktoberfest.digitalocean.com/
 
 >Clone your fork down to your local machine
 
->git clone https://github.com/your-username/hacktoberfest.git
+>git clone https://github.com/Aakash2408/hacktoberfest.git
 
 >Make your changes (choose from any task above)
 
