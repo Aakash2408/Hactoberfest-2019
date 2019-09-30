@@ -8,6 +8,6 @@
 - Web Development
 - ML
 ## Projects
--Portfoio
+-Portfolio Website
 ## Profile Link
 https://github.com/anacodes/
