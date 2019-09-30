@@ -1,13 +1,13 @@
 # ANAGHA
 
-##Location
+## Location
 -Pune,India
-##Academics
+## Academics
 - IIIT
-##Interests
+## Interests
 - Web Development
 - ML
-##Projects
+## Projects
 -Portfoio
-##Profile Link
+## Profile Link
 https://github.com/anacodes/
