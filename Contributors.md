@@ -7,6 +7,12 @@ Hi, this is an example
 - GitHub: [Aakash2408](https://github.com/Aakash2408)
 
 
+### Name: [Abhishek](https://github.com/abhishek0220)
+- Place: Jammu, J&K, India
+- Bio: 2nd Year CSE undergraduate
+- GitHub: [abhishek0220](https://github.com/abhishek0220)
+=======
+
 ### Name: [Pranta Saha](https://github.com/sahapranta)
 - Place: Dhaka, Bangladesh
 - Bio: MBA
@@ -20,3 +26,4 @@ Hi, this is an example
 
 
 
+Conflict Resolved
