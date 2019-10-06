@@ -9,6 +9,12 @@ Hi
 - Bio: 2nd Year CSE undergraduate
 - GitHub: [Aakash2408](https://github.com/Aakash2408)
 
+<<<<<< patch-1
+### Name:[Sainath Singineedi](https://github.com/sainad2222)
+- Place: Kakinada,Andhra Pradesh, India
+- Bio: 2nd Year ECE undergraduate
+- GitHub: [sainad2222](https://github.com/Aakash2408)
+=======
 <<<<<< master
 ### Name: [Ramanujam Gond](https://github.com/ramanujamgond)
 - Place: Bookingjini Labs, Bhubaneswar, Odisha, India
@@ -47,3 +53,4 @@ Hi
 
 >>>Conflict resolved In master
 
+master
