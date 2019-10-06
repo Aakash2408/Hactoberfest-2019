@@ -7,6 +7,12 @@ Hi, this is an example
 - GitHub: [Aakash2408](https://github.com/Aakash2408)
 
 
+### Name: [Tomáš Roj](https://github.com/TomasRoj/)
+- Place: Prague, Czech republic
+- Bio: A 14 years old fan of coding and open-source in general.
+- GitHub: [TomasRoj](https://github.com/TomasRoj/)
+=======
+
 ### Name: [Abhishek](https://github.com/abhishek0220)
 - Place: Jammu, J&K, India
 - Bio: 2nd Year CSE undergraduate
@@ -26,4 +32,4 @@ Hi, this is an example
 
 
 
-Conflict Resolved
+Conflict Resolved master
