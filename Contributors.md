@@ -9,6 +9,11 @@ Hi
 - Bio: 2nd Year CSE undergraduate
 - GitHub: [Aakash2408](https://github.com/Aakash2408)
 
+### Name: [Nipul singal](https://github.com/Nipulsingal)
+- Place: Hisar, Haryana, India
+- Bio: 2nd Year IT undergraduate
+- GitHub: [NipulSingal](https://github.com/NipulSingal)
+
 <<<<<< patch-2
 ### Name: [Aman Saxena](https://github.com/Aman333Saxena)
 - Place: Ghaziabad, Uttar Pradesh, India
