@@ -9,6 +9,12 @@ Hi
 - Bio: 2nd Year CSE undergraduate
 - GitHub: [Aakash2408](https://github.com/Aakash2408)
 
+<<<<<< patch-2
+### Name: [Aman Saxena](https://github.com/Aman333Saxena)
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio: 3rd Year CSE undergraduate
+- GitHub: [Aman333Saxena](https://github.com/Aman333Saxena)
+=======
 <<<<<< patch-1
 ### Name:[Sainath Singineedi](https://github.com/sainad2222)
 - Place: Kakinada,Andhra Pradesh, India
@@ -54,3 +60,4 @@ Hi
 >>>Conflict resolved In master
 
 master
+>>>>>> master
