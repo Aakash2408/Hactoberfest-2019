@@ -9,6 +9,12 @@ Hi
 - Bio: 2nd Year CSE undergraduate
 - GitHub: [Aakash2408](https://github.com/Aakash2408)
 
+<<<<<< master
+### Name: [Ramanujam Gond](https://github.com/ramanujamgond)
+- Place: Bookingjini Labs, Bhubaneswar, Odisha, India
+- Bio: CSE Graduates
+- GitHub: [Ramanujam Gond](https://github.com/ramanujamgond)
+
 - Name: [Sachin Kumar](https://github.com/Sachindrck)
 - Place: Patna, Bihar, India
 - Bio: 2nd Year undergraduate at IIT Jammu.
@@ -18,13 +24,13 @@ Hi
 - Place: Prague, Czech republic
 - Bio: A 14 years old fan of coding and open-source in general.
 - GitHub: [TomasRoj](https://github.com/TomasRoj/)
-=======
+
 
 ### Name: [Abhishek](https://github.com/abhishek0220)
 - Place: Jammu, J&K, India
 - Bio: 2nd Year CSE undergraduate
 - GitHub: [abhishek0220](https://github.com/abhishek0220)
-=======
+
 
 ### Name: [Pranta Saha](https://github.com/sahapranta)
 - Place: Dhaka, Bangladesh
@@ -39,4 +45,5 @@ Hi
 
 
 
-Conflict resolved In master
+>>>Conflict resolved In master
+
