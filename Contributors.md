@@ -61,6 +61,12 @@ Hi
 - GitHub: [Tanmayi03](https://github.com/Tanmayi03)
 
 
+### Name: [Pratyush Garg](https://github.com/Tanmayi03)
+- Place: Jabalpur,Madhya Pradesh, India
+- Bio: Final year CSE Undergraduate
+- GitHub: [Pratyush2710](https://github.com/Pratyush2710)
+
+
 
 >>>Conflict resolved In master
 
