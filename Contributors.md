@@ -72,3 +72,9 @@ Hi
 
 master
 >>>>>> master
+
+### Name: [Pratham Goel](https://github.com/Pratham208)
+-Place: Ambala City, Haryana, India
+-Bio: First year MME Undergraduate, IIT PATNA
+-GitHub: [Pratham208](https://github.com/Pratham208)
+
