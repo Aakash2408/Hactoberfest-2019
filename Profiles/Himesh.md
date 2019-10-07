@@ -2,7 +2,7 @@
 
 ### Location
 
- -Delhi , India
+ - Delhi , India
  
 ### Academics
 
