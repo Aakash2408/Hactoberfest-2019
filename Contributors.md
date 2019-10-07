@@ -66,7 +66,11 @@ Hi
 - Bio: Final year CSE Undergraduate
 - GitHub: [Pratyush2710](https://github.com/Pratyush2710)
 
-
+### Name: [Himesh Nayak](https://github.com/HimeshNayak)
+- Place: Delhi, India
+- Bio: 1st sem CSE undergraduate
+- GitHub: [HimeshNayak](https://github.com/HimeshNayak)
+- Interests: Competitive Coding, Website and App Development
 
 >>>Conflict resolved In master
 
