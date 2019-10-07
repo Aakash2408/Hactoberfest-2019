@@ -67,7 +67,10 @@ Hi
 - GitHub: [Pratyush2710](https://github.com/Pratyush2710)
 
 
-
+### Name :[akash] (https://github.com/rushkinrenny)
+-place:delhi,India
+-Bio: 2nd year cse
+-Github: [rushkinrenny] (https://github.com/rushkinrenny)
 >>>Conflict resolved In master
 
 master
