@@ -82,3 +82,7 @@ master
 - Bio: First year MME Undergraduate, IIT PATNA
 - GitHub: [Pratham208](https://github.com/Pratham208)
 
+### Name: [Anik Datta](https://github.com/ANIK-DATTA)
+- Place: Noida, DELHI NCR, India
+
+
