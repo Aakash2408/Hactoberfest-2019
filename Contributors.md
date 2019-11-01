@@ -2,7 +2,7 @@ Hi
 
  master
 
-=======
+
 
 ### Name: [Aakash Sangwan](https://github.com/Aakash2408)
 - Place: Charkhi Dadri, Haryana, India
@@ -82,6 +82,12 @@ master
 - Bio: First year MME Undergraduate, IIT PATNA
 - GitHub: [Pratham208](https://github.com/Pratham208)
 
+<<<<<< master
+### Name: [Anik Datta](https://github.com/ANIK-DATTA)
+- Place: Noida, DELHI NCR, India
+
+
+======
 ### Name: [Navanith Rayavarapu](https://github.com/navanith007)
 - place: Chennai, India
 - Bio: Student at IIIT Sricity
